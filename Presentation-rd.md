@@ -26,13 +26,13 @@ https://github.com/Randynamic/git-training-examples.git
 what is the difference between fetch and pull?
 
 But what if we make a mistake?
-`git reset --soft HEAD`
-`git reset --hard HEAD^` undo last commit
-`git reset --hard HEAD^^` undo last 2 commits
+- `git reset --soft HEAD`
+- `git reset --hard HEAD^` undo last commit
+- `git reset --hard HEAD^^` undo last 2 commits
 
-`git branch awesomeness` creates a branch
-`git branch -d awesomeness` deletes a branch on my comp but still present on everyone else his/here comp and remote
-`git branch -d origin/awesomeness` => deleted on my comp and remote but still present on yours if you have pulled it
+- `git branch awesomeness` creates a branch
+- `git branch -d awesomeness` deletes a branch on my comp but still present on everyone else his/here comp and remote
+- `git branch -d origin/awesomeness` => deleted on my comp and remote but still present on yours if you have pulled it
 
 There is also a possibility to work with multiple remotes <= is not something we will do here so if you want to now more about that get into the books
 
