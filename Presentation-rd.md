@@ -26,7 +26,7 @@ https://github.com/Randynamic/git-training-examples.git
 what is the difference between fetch and pull?
 
 But what if we make a mistake?
-- `git reset --soft HEAD`
+- `git reset --soft df71a27`
 - `git reset --hard HEAD^` undo last commit
 - `git reset --hard HEAD^^` undo last 2 commits
 
@@ -57,6 +57,19 @@ There is also a possibility to work with multiple remotes <= is not something we
 
 What is the difference between rebase and merge?
 
+```
+Master   dev
+    |    |
+    |    8
+    0    |
+    |    |
+    |    8
+    0    |
+    |   /
+    |  /
+    | /
+```
+
 ### git rebase:
 
 ```
@@ -74,7 +87,6 @@ Master  dev
 
 
 ### git merge
-
 ```
 Master   dev
     |    -
