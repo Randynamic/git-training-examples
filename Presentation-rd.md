@@ -1,5 +1,13 @@
 https://github.com/Randynamic/git-training-examples.git
 
+========================================
+# Yarr Matey
+
+I've plundered this as well!
+
+
+========================================
+
 # Config
 `git config`
 
