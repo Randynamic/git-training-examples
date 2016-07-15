@@ -11,16 +11,16 @@ https://github.com/Randynamic/git-training-examples.git
 ```
 
 # Start 
-`git help` is a command that will show teh available commands
-`git clone [url]` creates a local repo
-`git status` checks the current status of your repo
+-`git help` is a command that will show teh available commands
+-`git clone [url]` creates a local repo
+-`git status` checks the current status of your repo
 
-`git commit -m "Modify readme & add todo.txt."` commits a message
-`git commit -a -m "Modify readme & add todo.txt."` commits all untracked files as well
-`git commit --amend -m "Modify readme & add todo.txt."` adds to last commit
-`git push origin/master` pushes changes to master branch
-`git log` shows the log files <= commits
-`git log --pretty=oneline` shows the log files on a single line (summary)
+-`git commit -m "Modify readme & add todo.txt."` commits a message
+-`git commit -a -m "Modify readme & add todo.txt."` commits all untracked files as well
+-`git commit --amend -m "Modify readme & add todo.txt."` adds to last commit
+-`git push origin/master` pushes changes to master branch
+-`git log` shows the log files <= commits
+-`git log --pretty=oneline` shows the log files on a single line (summary)
 
 # Second
 what is the difference between fetch and pull?
