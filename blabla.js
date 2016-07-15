@@ -1,8 +1,9 @@
 var x = 'Hi! this is message '
 
-for(var i = 0; i < 10; i++){
+for(var i = 0; i < 40; i++){
 	console.log(x + i)
-	if(i === 9){
+	var b = i + 4
+	if(i === b){
 		console.log('This is annoying right?')
 	}
 }
