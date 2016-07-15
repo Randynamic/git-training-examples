@@ -1,6 +1,6 @@
 (function(){
 	'use strict';
 	var hoho = 'el ron a palo'
-	console.log('print using iife and strict');
+	console.log('hohoho con la botella de ron');
 
 }());
