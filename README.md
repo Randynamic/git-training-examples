@@ -1,5 +1,6 @@
 
 # Exercise 1
+
 - Configure git
 ```
     git config  --global user.name "Mr. Awesome" 
@@ -43,12 +44,14 @@
 - Go to the folder of the other team grab a file and check who did some changes on it
 - Remove one of there files
 
+
 # Exercise 5
+
 - Go back to your own folder and make at least 3 new commits
 - Squash these commits into 1 commit
 
 
-
 # Exercise 6
+
 - create an alias for checkout
 - create an alias for branching
