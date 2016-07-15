@@ -1,10 +1,11 @@
 var x = 'Hi! this is message '
+var b
 
 for(var i = 0; i < 40; i++){
 	console.log(x + i)
-	var b = i + 4
-	if(i === b){
+	if(i === 10){
 		console.log('This is annoying right?')
 	}
 }
 
+console.log('Ok fine, I quit')
