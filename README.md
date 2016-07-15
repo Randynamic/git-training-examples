@@ -27,6 +27,7 @@ HAR HAR THE PAGE IS MINE NOW!!!
 - Show the logs on 1 line
 
 
+
 # Exercise 3
 
 - Pull all changes from the repo
