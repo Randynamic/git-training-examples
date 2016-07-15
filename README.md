@@ -1,6 +1,12 @@
 https://git-scm.com/
 https://git-scm.com/book/en/v2
 
+#hijack
+====================================
+HAR HAR THE PAGE IS MINE NOW!!!
+
+
+====================================
 
 # Exercise 1
 
