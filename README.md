@@ -1,13 +1,11 @@
+https://git-scm.com/
+https://git-scm.com/book/en/v2
+
 
 # Exercise 1
 
-- Configure git
-```
-    git config  --global user.name "Mr. Awesome" 
-    git config  --global user.email Awesome@randynamic.com
-    git config  --global color.ui true
-    git config  --list
-```
+- Configure git name, email, colors and some more things you want to config
+
 
 # Exercise 2
 
