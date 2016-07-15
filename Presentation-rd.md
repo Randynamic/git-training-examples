@@ -76,12 +76,12 @@ Master  dev
 ### git merge
 
 ```
-Master      dev
-    |    |
-    8    8
-    8    8
-    |    |
+Master   dev
+    |    -
+    |    8
     0    0
+    |    |
+    |    8
     0    0
     |   /
     |  /
