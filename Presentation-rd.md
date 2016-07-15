@@ -1,3 +1,5 @@
+https://github.com/Randynamic/git-training-examples.git
+
 # Config
 `git config`
 
